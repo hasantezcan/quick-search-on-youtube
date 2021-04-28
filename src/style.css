@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway:200");
+
+body {
+  margin: 7px -3px 1px -3px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #1d1f20;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 384px;
+  height: 323px;
+  color: white;
+  font-family: "Raleway";
+  font-size: 1.5rem;
+  box-shadow: none;
+}
+
+a {
+  color: #ef4e7b;
+  text-decoration: none;
+}
+
+.gradient-border {
+  padding: 0 20px;
+  --borderWidth: 15px;
+  background: #1d1f20;
+  position: relative;
+  border-radius: 15px;
+}
+.gradient-border:after {
+  content: "";
+  position: absolute;
+  top: calc(-1 * var(--borderWidth));
+  left: calc(-1 * var(--borderWidth));
+  height: calc(100% + var(--borderWidth) * 2);
+  width: calc(100% + var(--borderWidth) * 2);
+  background: linear-gradient(
+    60deg,
+    #f79533,
+    #f37055,
+    #ef4e7b,
+    #a166ab,
+    #5073b8,
+    #1098ad,
+    #07b39b,
+    #6fba82
+  );
+  /* border-radius: calc(2 * var(--borderWidth)); */
+  z-index: -1;
+  animation: animatedgradient 3s ease alternate infinite;
+  background-size: 300% 300%;
+}
+
+.contributors {
+  width: 50%;
+  letter-spacing: 1px;
+}
+
+.contributor {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.twitter-ico {
+  height: 1.5rem;
+  margin-right: 5px;
+}
+
+@keyframes animatedgradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
