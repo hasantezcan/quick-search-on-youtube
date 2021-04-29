@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Quick Search on youtube",
-  "description": "You can easily search for any text you see on the screen on YouTube!",
+  "description": "Select any text on the web page and search this text directly on youtube!",
   "version": "1.0.0",
   "icons": {
     "16": "./src/assets/images/icon-16.png",
