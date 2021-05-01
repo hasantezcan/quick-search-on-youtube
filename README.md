@@ -3,12 +3,11 @@
   <h1 align="center">Quick Search on youtube</h1>
   <br/>
   <p align="center">
-  <!-- <img src="https://github.com/checkly/headless-recorder/workflows/Lint%20&%20Build%20&%20Test/badge.svg?branch=master" alt="Github Build"/> -->
   
-  <a href="https://chrome.google.com/webstore/detail/easy-web-reference/nogppkedjlemlmklibidcopeiegepngk?hl=en">
-    <img href="https://chrome.google.com/webstore/detail/easy-web-reference/nogppkedjlemlmklibidcopeiegepngk?hl=en" src="https://img.shields.io/chrome-web-store/v/nogppkedjlemlmklibidcopeiegepngk?label=Chrome%20Webstore" alt="Chrome Webstore Version" />
-    <img src="https://img.shields.io/chrome-web-store/users/nogppkedjlemlmklibidcopeiegepngk?label=Chrome%20Webstore%20-%20Users" alt="Chrome Webstore Users" /> 
-    <img alt="Chrome Web Store" src="https://img.shields.io/chrome-web-store/stars/nogppkedjlemlmklibidcopeiegepngk?label=Rating">
+  <a href="https://chrome.google.com/webstore/detail/easy-web-reference/opjjonoloogamjcheipbjpphhdehbaak?hl=en">
+    <img href="https://chrome.google.com/webstore/detail/easy-web-reference/opjjonoloogamjcheipbjpphhdehbaak?hl=en" src="https://img.shields.io/chrome-web-store/v/opjjonoloogamjcheipbjpphhdehbaak?label=Chrome%20Webstore" alt="Chrome Webstore Version" />
+    <img src="https://img.shields.io/chrome-web-store/users/opjjonoloogamjcheipbjpphhdehbaak?label=Chrome%20Webstore%20-%20Users" alt="Chrome Webstore Users" /> 
+    <img alt="Chrome Web Store" src="https://img.shields.io/chrome-web-store/stars/opjjonoloogamjcheipbjpphhdehbaak?color=green&label=Rating">
   </a>
   
   <img alt="GitHub" src="https://img.shields.io/github/license/hasantezcan/easy-web-reference-chrome-extension">
@@ -42,4 +41,4 @@ Thanks to my friend [**Batın**](https://github.com/batin) to inspire with this 
 
 > **If you see any mistakes or if you want to make any improvement on this repo you can** [**`pull the request here.`**](https://github.com/hasantezcan/quick-search-on-youtube/pulls) 
 
-> **You can contact with me:** [**`t.me/hasantezcan`**](mailto:hasantezcan77+fromGithub@gmail.com)
+> **You can contact with me:** [**`click here!`**](mailto:hasantezcan77+fromGithub@gmail.com)
